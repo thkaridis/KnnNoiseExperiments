@@ -8474,7 +8474,7 @@ great_pret, proper, foster,3, less_conv, convenient, nonprob, not_recom, not_rec
 great_pret, proper, foster,3, less_conv, convenient, slightly_prob, recommended, priority
 great_pret, proper, foster,3, less_conv, convenient, slightly_prob, not_recom, not_recom
 great_pret, proper, foster,3, less_conv, convenient, problematic, recommended, spec_prior
-great_pret, proper, foster,3, less_conv, convenient, problematic, not_recom, not_recom
+great_pret, proper, foster,3, less_conv, convenient, problematic, not_recom, spec_prior
 great_pret, proper, foster,3, less_conv, inconv, nonprob, recommended, priority
 great_pret, proper, foster,3, less_conv, inconv, nonprob, priority, spec_prior
 great_pret, proper, foster,3, less_conv, inconv, nonprob, not_recom, not_recom
